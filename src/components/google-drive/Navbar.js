@@ -6,7 +6,7 @@ export default function NavbarComponent() {
   return (
     <Navbar bg="light" expand="sm">
       <Navbar.Brand as={Link} to="/">
-        Codex-Drive
+        Codex Drive
       </Navbar.Brand>
       <Nav>
         <Nav.Link as={Link} to="/user">
